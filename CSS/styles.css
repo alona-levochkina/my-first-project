@@ -1,0 +1,12 @@
+.title {
+  background-color: aqua;
+  color: blue;
+  align-items: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: medium;
+}
+
+.text {
+  background-color: green;
+  color: antiquewhite;
+}
